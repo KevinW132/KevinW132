@@ -5,7 +5,11 @@
 
 💻 **Fullstack Developer | Vision Empresarial | Problem Solver**  
 Apasionado por construir soluciones tecnológicas que realmente generen impacto.  
-Mi enfoque combina **programación avanzada** con una **visión estratégica de negocio** gracias a mi formación en **Ingeniería en Sistemas** y **Administración de Empresas**.  </p>
+Mi enfoque combina **programación avanzada** con una **visión estratégica de negocio** gracias a mi formación en **Ingeniería en Sistemas** y **Administración de Empresas**.  <br>
+<a href="www.linkedin.com/in/kevin-de-mata-6959b1294" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+</p>
 
 ---
 
@@ -56,7 +60,3 @@ Mi enfoque combina **programación avanzada** con una **visión estratégica de 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 </p>
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KevinW132&show_icons=true&theme=gotham" alt="KevinW132" />
